@@ -1,0 +1,221 @@
+ns0.nationet.net.
+	155.131.1.200
+ns0.nationet.net	AS13114 Nationwide Building Society
+United Kingdom
+ns1.nationet.net.
+	155.131.97.200
+ns1.nationet.net	AS13114 Nationwide Building Society
+United Kingdom
+
+MX Records ** This is where email for the domain goes...
+10 mailhost.nationet.com.
+	155.131.31.200
+	AS13114 Nationwide Building Society
+United Kingdom
+10 mailhost2.nationet.com.
+	155.131.127.200
+	AS13114 Nationwide Building Society
+United Kingdom
+
+TXT Records ** Find more hosts in Sender Policy Framework (SPF) configurations
+
+Host Records (A) ** this data may not be current as it uses a static database (updated monthly)
+rag1.nationet.com
+	155.131.120.120
+	AS13114 Nationwide Building Society
+United Kingdom
+olb2.nationet.com
+	155.131.44.92
+	AS13114 Nationwide Building Society
+United Kingdom
+ndc.olb2.nationet.com
+	155.131.144.92
+	AS13114 Nationwide Building Society
+United Kingdom
+stc.olb2.nationet.com
+	155.131.44.92
+	AS13114 Nationwide Building Society
+United Kingdom
+mailhost2.nationet.com
+	155.131.127.200
+	AS13114 Nationwide Building Society
+United Kingdom
+ra.nationet.com
+	155.131.24.85
+	AS13114 Nationwide Building Society
+United Kingdom
+acc.nationet.com
+	155.131.31.36
+	AS13114 Nationwide Building Society
+United Kingdom
+spui.nationet.com
+	155.131.44.105
+	AS13114 Nationwide Building Society
+United Kingdom
+ndc.spui.nationet.com
+	155.131.144.105
+	AS13114 Nationwide Building Society
+United Kingdom
+portal.nationet.com
+	155.131.44.88
+	AS13114 Nationwide Building Society
+United Kingdom
+ctcctp.nationet.com
+	172.30.210.75
+	
+aggregator.nationet.com
+	155.131.31.56
+	AS13114 Nationwide Building Society
+United Kingdom
+arrears.nationet.com
+	155.131.44.106
+	AS13114 Nationwide Building Society
+United Kingdom
+ndc.arrears.nationet.com
+	155.131.144.106
+	AS13114 Nationwide Building Society
+United Kingdom
+cws.nationet.com
+	155.131.128.114
+	AS13114 Nationwide Building Society
+United Kingdom
+ndc.pfmanagement.nationet.com
+	155.131.144.92
+	AS13114 Nationwide Building Society
+United Kingdom
+stc.pfmanagement.nationet.com
+	155.131.44.92
+	AS13114 Nationwide Building Society
+United Kingdom
+mailhost.nationet.com
+	155.131.31.200
+	AS13114 Nationwide Building Society
+United Kingdom
+travelmoney.nationet.com
+	195.99.138.111
+	AS2856 British Telecommunications PLC
+United Kingdom
+arch.nationet.com
+	155.192.12.253
+arch.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+arrearsctc.nationet.com
+	155.131.129.70
+arrearsctc.nationet.com.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ctc.aggregator.nationet.com
+	155.131.127.55
+ctc.aggregator.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ctcacc.nationet.com
+	155.131.127.136
+ctcacc.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ctccws.beta.nationet.com
+	155.131.129.73
+ctccws.beta.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ctccws.nationet.com
+	155.131.127.135
+ctccws.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ctcexitusduo.nationet.com
+	155.131.129.48
+ctcexitusduo.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ctcfdpes.nationet.com
+	155.131.129.46
+ctcfdpes.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ctcvbv.nationet.com
+	155.131.127.127
+ctcvbv.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+da.nationet.com
+	155.131.24.130
+da.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+intermediary.nationet.com
+	155.131.31.47
+intermediary.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+mvirtual.nationet.com
+	155.131.131.11
+mvirtual.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ndc-da.nationet.com
+	155.131.120.130
+ndc-da.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ndc.acc.nationet.com
+	155.131.144.67
+ndc.acc.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ndc.ctp.nationet.com
+	155.131.144.72
+ndc.ctp.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ra2.nationet.com
+	155.131.120.85
+ra2.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+sa.nationet.com
+	109.233.52.204
+s204-52.cust.stratogen.net	AS50292 Access UK Ltd
+United Kingdom
+sa.nationet.com
+	109.233.52.205
+s205-52.cust.stratogen.net	AS50292 Access UK Ltd
+United Kingdom
+sal.nationet.com
+	155.192.12.251
+sal.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+secure.nationet.com
+	155.192.33.11
+secure.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+stc-da.nationet.com
+	155.131.24.130
+stc-da.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+stc.acc.nationet.com
+	155.131.44.67
+stc.acc.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+stc.arrears.nationet.com
+	155.131.44.81
+stc.arrears.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+ctp.nationet.com
+	155.131.44.72
+stc.ctp.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+stc.ctp.nationet.com
+	155.131.44.72
+stc.ctp.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+mbtransaction.nationet.com
+	155.131.44.73
+stc.mbtrans.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+stc.spui.nationet.com
+	155.131.44.80
+stc.spui.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+urd.nationet.com
+	155.131.31.45
+urd.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+virtual.nationet.com
+	155.131.130.10
+virtual.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+visatokennonprod.nationet.com
+	155.131.129.53
+visatokennonprod.nationet.com	AS13114 Nationwide Building Society
+United Kingdom
+mail.nationet.com
+	155.192.1.250
+www.nbs.co.uk	AS13114 Nationwide Building Society
+United Kingdom
